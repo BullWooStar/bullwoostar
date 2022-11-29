@@ -4,6 +4,8 @@ Web Front-end Engineer
 * ✉️  You can contact me at [ccatal66@gmail.com](mailto:ccatal66@gmail.com)
 * 🖥️  [My resume](https://www.bullwoostar.dev/)
 
+<br/>
+
 ### Skills
 
 <p align="left">
